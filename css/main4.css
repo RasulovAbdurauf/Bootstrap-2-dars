@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(1, 3, 20);
+}
+.full{
+    margin-top: 180px;
+    margin-left: 250px;
+}
+.btncss{
+    border-radius: 50px;
+}
+.btncss2{
+    border-color: purple;
+    color: purple;
+    background-color: transparent;
+    border-radius: 0;
+}
+.btncss2:hover{
+    border-color: purple;
+    background-color: purple;
+    color: white;
+    border-radius: 0;
+}

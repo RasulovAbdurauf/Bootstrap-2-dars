@@ -1,0 +1,13 @@
+.full{
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.btncss{
+    border-radius: 0;
+}
+.btncss2{
+    border-radius: 50px;
+}
+.btncss3{
+    border-bottom: 2px solid black;
+}
